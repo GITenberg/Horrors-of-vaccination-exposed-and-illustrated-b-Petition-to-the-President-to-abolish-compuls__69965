@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <pgterms:ebook rdf:about="ebooks/69965">
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-02-06</dcterms:issued>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/55519">
+        <pgterms:name>Higgins, Chas. M.</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:title>Horrors of vaccination exposed and illustrated : $b Petition to the President to abolish compulsory vaccination in Army and Navy</dcterms:title>
+    <pgterms:marc260>  $aUnited States :$bChas. M. Higgins, $c1920.</pgterms:marc260>
+    <pgterms:marc508>MFR, Krista Zaleski and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)</pgterms:marc508>
+    <pgterms:marc904>https://archive.org/details/39002086340891.med.yale.edu</pgterms:marc904>
+    <pgterms:marc905>20200217193413higgins</pgterms:marc905>
+    <pgterms:marc906>1920</pgterms:marc906>
+    <pgterms:marc907>US</pgterms:marc907>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N151d6a1f4a3a48dab6e5092b22130fae">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/69965/69965-h/69965-h.htm">
+        <dcterms:isFormatOf rdf:resource="ebooks/69965"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">509930</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-06T01:33:09</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc5176f3893e44ad5990db45dac97ccfd">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/69965/69965-0.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/69965"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452513</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-06T01:33:09</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N8c737fe8013b480199ad60f3f0241bb4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/69965/69965-0.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/69965"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">155330</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-06T01:33:11</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N373722cfcbe343969d6369f51eaf52d5">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N013ec0427a334115b7fd85495512d062">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/69965/69965-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/69965"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6740267</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-06T01:33:11</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nef095cc53a4642708fd2ce6a27046962">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nd8c24b667c2a4d70aaa17a15e5ad1435">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+</rdf:RDF>
